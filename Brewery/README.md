@@ -1,4 +1,4 @@
-# LaboratorioV
+# Brewery
 ¿Cuántos consumidores se necesitan para que el stock llegue a 0?
 En este caso si inicializo en cero el stock, se va a hacer un bucle de que un productor produce 1 cerveza y el consumidor la consume en el acto seguido, por ende 1 consumidor se necesita.
 
